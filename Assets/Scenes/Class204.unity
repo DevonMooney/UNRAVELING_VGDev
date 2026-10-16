@@ -6222,6 +6222,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4943183152173863885, guid: f3a7c89d1f3ad495fabb54fa90bcfcbf, type: 3}
+      propertyPath: speed
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4943183152173863885, guid: f3a7c89d1f3ad495fabb54fa90bcfcbf, type: 3}
+      propertyPath: acceleration
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 5551213106677990289, guid: f3a7c89d1f3ad495fabb54fa90bcfcbf, type: 3}
       propertyPath: m_Name
       value: BadParticle
